@@ -26,9 +26,7 @@ Además, tengo una formación académica en Ingeniería de Audio, lo cual ha enr
 
 ### Tecnologías y Herramientas
 
-<!-- HERRAMIENTAS -->
-<h2 align="center">Herramientas que manejo</h2>
-<p align="center">
+
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src=https://img.shields.io/badge/Python-111112?&style=flat-square&logo=python alt=python height=27px/></a>
   <a href="https://jupyter.org/" target="_blank"><img src=https://img.shields.io/badge/Jupyter-111112?&style=flat-square&logo=jupyter alt=jupyter height=27px/></a>
