@@ -26,6 +26,8 @@ Además, tengo una formación académica en Ingeniería de Audio, lo cual ha enr
 
 ### Tecnologías y Herramientas
 
+Algunas de las tecnologías que manejo son:
+
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src=https://img.shields.io/badge/Python-111112?&style=flat-square&logo=python alt=python height=27px/></a>
