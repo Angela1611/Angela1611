@@ -1,4 +1,4 @@
-![12312](https://github.com/MicaPiergiacomi/MicaPiergiacomi/assets/168442686/d83471e3-8d48-45ca-bb64-42a1f224a973)
+![12312](https://github.com/Angela1611/Angela1611/blob/main/background_data.png)
 
 
 ## Hola, soy Angela! 👋 
