@@ -49,9 +49,14 @@ Algunas de las tecnologías que manejo son:
 </p>
 
 ### Contáctame
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/angela-escobar161/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank"
-href="mailto:natescobar2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br>
+<p style="text-align: center;">
+    <br>	
+    <a target="_blank" href="https://www.linkedin.com/in/angela-escobar161/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    </a>
+    <a target="_blank" href="mailto:natescobar2@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+    </a>
+    <br>
 </p>
+
