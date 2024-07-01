@@ -26,23 +26,27 @@ Además, tengo una formación académica en Ingeniería de Audio, lo cual ha enr
 
 ### Tecnologías y Herramientas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"  />
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"  />
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"  />
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-
+<!-- HERRAMIENTAS -->
+<h2 align="center">Herramientas que manejo</h2>
+<p align="center">
+<div align="center">
+  <a href="https://www.python.org/" target="_blank"><img src=https://img.shields.io/badge/Python-111112?&style=flat-square&logo=python alt=python height=27px/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src=https://img.shields.io/badge/Jupyter-111112?&style=flat-square&logo=jupyter alt=jupyter height=27px/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src=https://img.shields.io/badge/Pandas-111112?&style=flat-square&logo=pandas&logoColor=150458 alt=pandas height=27px/></a>
+  <a href="https://numpy.org/" target="_blank"><img src=https://img.shields.io/badge/Numpy-111112?&style=flat-square&logo=numpy&logoColor=013243 alt=numpy height=27px/></a>
+   <a href="https://matplotlib.org/" target="_blank"><img src= https://github.com/Floryofre/SmartPro_Analytics/blob/main/imagenes/matplotlib-logo-7676870AC0-seeklogo.com.png?raw=true height=27px/></a>
+   <a href="https://www.mysql.com/" target="_blank"><img src=https://img.shields.io/badge/MySQL-111112?&style=flat-square&logo=mysql&logoColor=4479A1 alt=mysql height=27px/></a>
+  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank"><img src=https://img.shields.io/badge/SQLServer-111112?&style=flat-square&logo=microsoftsqlserver&logoColor=CC2927 alt=sqlserver height=27px/></a>
+  <a href="https://powerbi.microsoft.com/es/" target="_blank"><img src=https://img.shields.io/badge/PowerBI-111112?&style=flat-square&logo=powerbi&logoColor=F2C811 alt=powerbi height=27px/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src=https://img.shields.io/badge/HTML-111112?&style=flat-square&logo=html5&logoColor=E34F26 alt=html height=27px/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src=https://img.shields.io/badge/CSS-111112?&style=flat-square&logo=css3&logoColor=1572B6 alt=css height=27px/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src=https://img.shields.io/badge/JavaScript-111112?&style=flat-square&logo=javascript&logoColor=F7DF1E alt=javascript height=27px/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src=https://img.shields.io/badge/VSCode-111112?&style=flat-square&logo=visualstudiocode&logoColor=007ACC alt=visualstudiocode height=27px/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src=https://img.shields.io/badge/GIT-111112?&style=flat-square&logo=git&logoColor=F05032 alt=git height=27px/></a>
+  <a href="https://markdown.es/" target="_blank"><img src=https://img.shields.io/badge/Markdown-111112?&style=flat-square&logo=markdown&logoColor=white alt=markdown height=27px/></a>
+  <a href="https://slack.com" target="_blank"><img src=https://img.shields.io/badge/Slack-111112?&style=flat-square&logo=slack&logoColor=4A154B alt=slack height=27px/></a>
+</div>  
+</p>
 
 ### Contáctame
 <br>	
