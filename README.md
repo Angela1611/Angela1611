@@ -48,8 +48,9 @@ Algunas de las tecnologías que manejo son:
 </div>  
 </p>
 
-### Contáctame
-<p style="text-align: center;">
+
+<h3 style="text-align: center;">Contáctame</h3>
+<div style="text-align: center;">
     <br>	
     <a target="_blank" href="https://www.linkedin.com/in/angela-escobar161/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -58,5 +59,6 @@ Algunas de las tecnologías que manejo son:
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
     <br>
-</p>
+</div>
+
 
