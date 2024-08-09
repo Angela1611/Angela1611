@@ -13,7 +13,7 @@ Además, tengo una formación académica en Ingeniería de Audio, lo cual ha enr
 
 👩🏻‍💻 Actualmente soy TA (Teaching Assistant) en el bootcamp de Análisis de datos de SoyHenry, allí organizo equipos de estudiantes, los guío en sus primeros pasos y fomento la colaboración entre ellos.
 
-🇺🇸 Cuento con un nivel de Inglés fluído gracias a mis 2 años de experiencia trabajando en países como USA y Canadá.
+🗽 Cuento con un nivel de Inglés fluído gracias a mis 2 años de experiencia trabajando en países como USA y Canadá.
 
 ✨ Estoy buscando nuevas oportunidades para poner en práctica mis habilidades, aportar valor y continuar aprendiendo en proyectos innovadores. Si tienes interés en conectar no dudes en contactarme. ✨
 
