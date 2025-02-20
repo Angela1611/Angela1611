@@ -3,7 +3,7 @@
 
 ## Hola, soy Angela! 👋 
 
-Soy Analista de datos graduada en Henry Bootcamp, con 1 año de experiencia en análisis de producción y optimización de procesos, y más de 3 años de experiencia en asistencia administrativa en países como Colombia, USA y Canadá, he desarrollado habilidades analíticas, de resolución de problemas, de organización y toma de decisiones estratégicas. 
+Soy Analista de datos, con 2 años de experiencia en análisis de datos, con énfasis en producción y optimización de procesos, y más de 3 años de experiencia en asistencia administrativa en países como Colombia, USA y Canadá, he desarrollado habilidades analíticas, de resolución de problemas, de organización y toma de decisiones estratégicas. 
 
 Además, tengo una formación académica en Ingeniería de Audio, lo cual ha enriquecido mi comprensión de sistemas electrónicos, me ha capacitado en el dominio de software de edición multimedia (audio y video), y me ha permitido aplicar principios acústicos y matemáticos para cumplir con requisitos específicos.
 
