@@ -1,21 +1,24 @@
 ![12312](https://github.com/Angela1611/Angela1611/blob/main/background_data.png)
 
 
-## Hola, soy Angela! 👋 
+## Hi there! I'm Angela! 👋 
 
-Soy Analista de datos, con 2 años de experiencia en análisis de datos, con énfasis en producción y optimización de procesos, y más de 3 años de experiencia en asistencia administrativa en países como Colombia, USA y Canadá, he desarrollado habilidades analíticas, de resolución de problemas, de organización y toma de decisiones estratégicas. 
+I'm a Junior Data Engineer with over 1 year of experience building end-to-end data systems, from extraction to visualization, using Python, SQL, N8N, and Power BI. Familiar with cloud platforms such as GCP and workflow orchestration using Airflow.
 
-Además, tengo una formación académica en Ingeniería de Audio, lo cual ha enriquecido mi comprensión de sistemas electrónicos, me ha capacitado en el dominio de software de edición multimedia (audio y video), y me ha permitido aplicar principios acústicos y matemáticos para cumplir con requisitos específicos.
+Additionally, I have 2 years of experience as a Data Analyst developing business intelligence dashboards and identifying patterns that drive actionable insights. Through data-driven initiatives, key business KPIs increased between 700% and 3000%, significantly improving operational efficiency and decision-making. I bring strong analytical, problem-solving, and communication skills, combined with strategic thinking.
 
-📈 Tengo un dominio avanzado de herramientas para el análisis y visualización de datos, como Excel, SQL, Power BI y Python.
+I also have 2 years of professional experience working in the USA and Canada, which has allowed me to develop fluent English. I am proactive and highly motivated by continuous learning and new challenges.
 
-🚀 Tengo facilidad para aprender rápidamente y disfruto enfrentar nuevos desafíos.
 
-👩🏻‍💻 Actualmente soy TA (Teaching Assistant) en el bootcamp de Análisis de datos de SoyHenry, allí organizo equipos de estudiantes, los guío en sus primeros pasos y fomento la colaboración entre ellos.
+📊 I have experience building end-to-end data systems, from data extraction, transformation, and loading to visualization, using Python, SQL, Power BI, and process automation.
 
-🗽 Cuento con un nivel de Inglés fluído gracias a mis 2 años de experiencia trabajando en países como USA y Canadá.
+⚙️ I currently work as a Data Architect, where I design and automate data workflows using n8n, Python, and SQL, centralizing data into structured databases to enable reliable analysis and decision-making.
 
-✨ Estoy buscando nuevas oportunidades para poner en práctica mis habilidades, aportar valor y continuar aprendiendo en proyectos innovadores. Si tienes interés en conectar no dudes en contactarme. ✨
+🚀 I learn quickly and enjoy tackling new technical challenges, especially in dynamic environments where data creates real business value.
+
+🌎 I have fluent English and 2 years of professional experience working with teams in the United States and Canada.
+
+✨ I’m open to new opportunities where I can contribute my skills in data automation and analytics, build well-structured data systems, and continue growing through innovative projects.
 
 
 
@@ -26,9 +29,9 @@ Además, tengo una formación académica en Ingeniería de Audio, lo cual ha enr
 
 ----
 
-### Tecnologías y Herramientas
+### Technologies and Tools
 
-Algunas de las tecnologías que manejo son:
+Some of the technologies I work with are:
 
 
 <div align="center">
