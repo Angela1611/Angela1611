@@ -3,7 +3,7 @@
 
 ## Hi there! I'm Angela! 👋 
 
-I'm a Junior Data Engineer with over 1 year of experience building end-to-end data systems, from extraction to visualization, using Python, SQL, N8N, and Power BI. Familiar with cloud platforms such as GCP and workflow orchestration using Airflow.
+I'm a Data Analytics Engineer with over 1 year of experience building end-to-end data systems, from extraction to visualization, using Python, SQL, N8N, and Power BI. Familiar with cloud platforms such as GCP, AWS, Databricks & Snowflake.
 
 Additionally, I have 2 years of experience as a Data Analyst developing business intelligence dashboards and identifying patterns that drive actionable insights. Through data-driven initiatives, key business KPIs increased between 700% and 3000%, significantly improving operational efficiency and decision-making. I bring strong analytical, problem-solving, and communication skills, combined with strategic thinking.
 
@@ -19,6 +19,8 @@ I also have 2 years of professional experience working in the USA and Canada, wh
 🌎 I have fluent English and 2 years of professional experience working with teams in the United States and Canada.
 
 ✨ I’m open to new opportunities where I can contribute my skills in data automation and analytics, build well-structured data systems, and continue growing through innovative projects.
+
+🤝 I greatly value collaborative environments and appreciate teams that are driven to grow together, support one another, and enjoy the journey while pursuing excellence in what we do
 
 
 
