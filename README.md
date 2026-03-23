@@ -56,7 +56,7 @@ Some of the technologies I work with are:
 </p>
 
 
-<h3 style="text-align: center;">Contáctame</h3>
+<h3 style="text-align: center;">Contact</h3>
 <div style="text-align: center;">
     <br>	
     <a target="_blank" href="https://www.linkedin.com/in/angela-escobar161/">
